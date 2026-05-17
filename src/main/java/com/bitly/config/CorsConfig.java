@@ -8,7 +8,7 @@ import org.springframework.web.filter.CorsFilter;
 
 import java.util.List;
 
-/**
+/**  
  * CORS configuration to allow cross-origin requests.
  * Configured for development; restrict origins in production.
  */
